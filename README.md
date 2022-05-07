@@ -36,7 +36,7 @@ The purpose of this project is to utilize Python, Pandas, and Matplotlib to crea
 
  ![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
  
-The graph data is consistent with the table data; that the rural cities total fares were significantly lower than the urban cities.  Also, the graph showed that there is a parallel trend between city type in total fare; when one goes up the other also goes up. For example, there was a peak in total fare at the last week of February, the total fare of all three type of cities also went up. Then, there was a slide right after, all cities also went down at the same rate.
+The graph data is consistent with the table data; that the rural cities total fares were significantly lower than the urban cities.  Also, the graph showed that there is a parallel trend between city type in total fare; when one goes up the other also goes up. For example, there was a peak in total fare at the last week of February, the total fare of all three type of cities also went up. Then, there was a slide right after, all cities also went down.
 
 ## Summary
 
