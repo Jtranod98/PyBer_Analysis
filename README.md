@@ -28,13 +28,14 @@ The purpose of this project is to utilize Python, Pandas, and Matplotlib to crea
 	4. Average fare per ride: $34.62 in rural cities, $30.97 in suburban cities, and $24.53 in urban cities. The average fare per ride in the urban cities is about $10 less than the rural cities and about $4 less than the suburban cities.  This showed rural cities generate the most money per ride.
     
 	5. Average fare per driver: $55.49 in rural cities, $39.50 in suburban cities $39.50, and $16.57 in urban cities. The averager fare per driver in urban cities is about $39 less than the rural cities and about $16 less than suburban cities.  This analysis showed that rural cities generate the most money per driver.
-    
 
+	6. The graph below displayed the relationship of total weekly fare and city type. It is consistent with the table data; that the rural cities weekly total fares are significantly lower than the urban cities.  Also, the graph showed that there is a parallel relationship between city type in total fare; when one goes up the other also goes up.  For example, there was a peak at the last week of February, the total fare of all three type of cities also went up. Then, there was a slide right after, all cities also went down.
+
+   
 ### The graph of the total weekly fare by city type from January to April 2019.
 
  ![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
  
-   6. The above graph displayed the relationship of total weekly fare and city type. It is consistent with the table data; that the rural cities weekly total fares are significantly lower than the urban cities.  Also, the graph showed that there is a parallel relationship between city type in total fare; when one goes up the other also goes up.  For example, there was a peak at the last week of February, the total fare of all three type of cities also went up. Then, there was a slide right after, all cities also went down.
 
 ## Summary
 
@@ -46,7 +47,7 @@ The purpose of this project is to utilize Python, Pandas, and Matplotlib to crea
     
 - Therefore, my recommendations, to increase the revenue, are:
     
-	1. Lower the fare per ride in rural cities to encourage more riders.
+	1. Lower the fare per ride in rural cities to encourage more rides.
 	2. Reduce the number of drivers in urban cities.
 	3. Increase the fare per ride in urban cities.
 
